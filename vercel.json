@@ -1,5 +1,6 @@
 {
     "routes": [
+      { "src": "/carta", "dest": "/carta.html" },
       { "src": "/(.*)", "dest": "/index.html" }
     ]
   }
